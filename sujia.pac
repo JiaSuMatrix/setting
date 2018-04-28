@@ -1,6 +1,6 @@
 // http://pac.itzmx.com
 
-var proxy = "SOCKS5 192.168.1.104:1080";
+var proxy = "SOCKS5 192.168.1.102:1080";
 
 var domains = {
   "pinterest.com": 1,
